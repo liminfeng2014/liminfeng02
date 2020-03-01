@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-	System.out.println("idea test liminfeng -merger liminfeng");
+	System.out.println("idea test liminfeng -merger liminfeng master");
 
     }
 }
